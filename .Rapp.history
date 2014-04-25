@@ -1,0 +1,3 @@
+a <- makeCacheMatrix(matrix(5:8,2))
+setwd("/Users/samiaaskari/ProgrammingAssignment2")
+a <- makeCacheMatrix(matrix(5:8,2))
